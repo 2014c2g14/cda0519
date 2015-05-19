@@ -1775,7 +1775,7 @@ def index(self, N=20 ,N1=20 , M=4, P=20,midx=400):
 &lt;!-- 啟動 brython() --&gt;
 &lt;body onload="brython()"&gt;
 
-&lt;font face="fantasy"&gt;cda_g2 40223106課程練習&lt;/font&gt;&lt;br&gt;    
+&lt;font color="purple"&gt;cda_g2 40223106課程練習&lt;/font&gt;&lt;br&gt;    
 
 &lt;h2&gt;第二組組員名單&lt;h2&gt;
 
