@@ -112,14 +112,23 @@ class Midterm(object):
     <!-- 啟動 brython() -->
     <body onload="brython()">
         
-    <h1>cda_g2 40223106課程練習</h1>
+    <span style="color:blue;">cda_g2 40223106課程練習</span><br />
 
-    <h2>cda_g2_w11 練習</h2>
+    <span style="color:orange;">cda_g2_w11 練習</span><br />
+    <br />
+
     <form method=POST action=index>
-    <a href="spur">spur</a><br />
-    <a href="drawspur">drawspur</a><br />
-    <a href="fileuploadform">上傳檔案</a><br />
+    <a href="spur">spur</a>  &nbsp; &nbsp; &nbsp;
+    <a href="drawspur">drawspur</a><br /><br /><br />
+    <a href="fileuploadform">上傳檔案</a>&nbsp; &nbsp; &nbsp;
     <a href="download_list">列出上傳檔案</a><br />
+
+    <table border="1">
+    　<tr>
+    　<td>cda第二組</td>
+    　</tr>
+    </table><br />
+
 
     '''
         return outstring
@@ -140,23 +149,24 @@ class Midterm(object):
     <body onload="brython()">
 
     <h1>cda_g2_w11 練習</h1>
+
     <form method=POST action=spuraction>
     齒數:<select name"select_one>
-    <option value="1">20</option>
-    <option value="2">25</option>
-    <option value="3">30</option>
-    <option value="4">35</option>
-    <option value="5">40</option>
-    <option value="6">35</option>
+    <option value="20">20</option>
+    <option value="25">25</option>
+    <option value="30">30</option>
+    <option value="35">35</option>
+    <option value="40">40</option>
+    <option value="35">35</option>
     </select><br />
     模數:<select name"select_two>
-    <option value="1">5</option>
-    <option value="2">10</option>
-    <option value="3">15</option>
+    <option value="5">5</option>
+    <option value="10">10</option>
+    <option value="15">15</option>
     </select><br />
     壓力角:<select name"select_three>
-    <option value="1">15</option>
-    <option value="2">20</option>
+    <option value="15">15</option>
+    <option value="20">20</option>
     </select><br />
     <input type=submit value=send>
 
@@ -734,4 +744,5 @@ if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
     application = cherrypy.Application(root, config=application_conf)
 else:
     # 表示在近端執行
+    cherrypy.config.update({'server.socket_port': 8099})
     cherrypy.quickstart(root, config=application_conf)
