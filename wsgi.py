@@ -134,7 +134,7 @@ class Midterm(object):
     <tr><td>組員</td><td>40223105</td><td>侯云婷</td></tr>
     <tr><td>組員</td><td>40223106</td><td>許芸瑄</td></tr>
     <tr><td>組員</td><td>40223107</td><td>黃雯琦</td></tr>
-    <tr><td>組員</td><td>40223104</td><td>林瑩禎</td></tr>
+    <tr><td>組員</td><td>40023107</td><td>陳儀芳</td></tr>
     </table>
 
 

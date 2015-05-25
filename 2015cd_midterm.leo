@@ -1897,7 +1897,7 @@ def index(self, N=20 ,N1=20 , M=4, P=20,midx=400):
 &lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223105&lt;/td&gt;&lt;td&gt;侯云婷&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223106&lt;/td&gt;&lt;td&gt;許芸瑄&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223107&lt;/td&gt;&lt;td&gt;黃雯琦&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223104&lt;/td&gt;&lt;td&gt;林瑩禎&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40023107&lt;/td&gt;&lt;td&gt;陳儀芳&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 
