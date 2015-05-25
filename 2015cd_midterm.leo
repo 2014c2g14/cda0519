@@ -1875,7 +1875,7 @@ def index(self, N=20 ,N1=20 , M=4, P=20,midx=400):
 &lt;!-- 啟動 brython() --&gt;
 &lt;body onload="brython()"&gt;
     
-&lt;span style="color:blue;"&gt;cda_g2 40223106課程練習&lt;/span&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span style="color:blue;"&gt;cda_g2 40223106課程練習&lt;/span&gt;&lt;h2&gt;&lt;br /&gt;
 
 &lt;span style="color:orange;"&gt;cda_g2_w11 練習&lt;/span&gt;&lt;br /&gt;
 &lt;br /&gt;
@@ -1886,11 +1886,19 @@ def index(self, N=20 ,N1=20 , M=4, P=20,midx=400):
 &lt;a href="fileuploadform"&gt;上傳檔案&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;
 &lt;a href="download_list"&gt;列出上傳檔案&lt;/a&gt;&lt;br /&gt;
 
-&lt;table border="1"&gt;
-　&lt;tr&gt;
-　&lt;td&gt;cda第二組&lt;/td&gt;
-　&lt;/tr&gt;
+&lt;table  style="border:3px #FFAC55 dashed;padding:5px;" rules="all" cellpadding='5';&gt;&lt;tr&gt;
+　&lt;td&gt;cda第二組&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;&lt;br /&gt;
+
+&lt;table  style="border:3px #FFAC55 double;padding:5px;" rules="all" cellpadding='5';&gt;
+&lt;tr&gt;&lt;td&gt;組長&lt;/td&gt;&lt;td&gt;40223131&lt;/td&gt;&lt;td&gt;陳柏安&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223102&lt;/td&gt;&lt;td&gt;吳佳容&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223104&lt;/td&gt;&lt;td&gt;林瑩禎&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223105&lt;/td&gt;&lt;td&gt;侯云婷&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223106&lt;/td&gt;&lt;td&gt;許芸瑄&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223107&lt;/td&gt;&lt;td&gt;黃雯琦&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;組員&lt;/td&gt;&lt;td&gt;40223104&lt;/td&gt;&lt;td&gt;林瑩禎&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
 
 
 '''

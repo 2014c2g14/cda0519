@@ -112,7 +112,7 @@ class Midterm(object):
     <!-- 啟動 brython() -->
     <body onload="brython()">
         
-    <span style="color:blue;">cda_g2 40223106課程練習</span><br />
+    <h2><span style="color:blue;">cda_g2 40223106課程練習</span><h2><br />
 
     <span style="color:orange;">cda_g2_w11 練習</span><br />
     <br />
@@ -123,11 +123,19 @@ class Midterm(object):
     <a href="fileuploadform">上傳檔案</a>&nbsp; &nbsp; &nbsp;
     <a href="download_list">列出上傳檔案</a><br />
 
-    <table border="1">
-    　<tr>
-    　<td>cda第二組</td>
-    　</tr>
+    <table  style="border:3px #FFAC55 dashed;padding:5px;" rules="all" cellpadding='5';><tr>
+    　<td>cda第二組</td></tr>
     </table><br />
+
+    <table  style="border:3px #FFAC55 double;padding:5px;" rules="all" cellpadding='5';>
+    <tr><td>組長</td><td>40223131</td><td>陳柏安</td></tr>
+    <tr><td>組員</td><td>40223102</td><td>吳佳容</td></tr>
+    <tr><td>組員</td><td>40223104</td><td>林瑩禎</td></tr>
+    <tr><td>組員</td><td>40223105</td><td>侯云婷</td></tr>
+    <tr><td>組員</td><td>40223106</td><td>許芸瑄</td></tr>
+    <tr><td>組員</td><td>40223107</td><td>黃雯琦</td></tr>
+    <tr><td>組員</td><td>40223104</td><td>林瑩禎</td></tr>
+    </table>
 
 
     '''
