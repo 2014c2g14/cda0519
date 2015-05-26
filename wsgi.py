@@ -928,6 +928,7 @@ root.cdag3.man = cdag3_man.MAN()
 # 呼叫 man.py 中 MAN 類別的 assembly 方法
 '''
 class MAN(object):
+    
     # 各組利用 index 引導隨後的程式執行
     @cherrypy.expose
     def index(self, *args, **kwargs):
@@ -1366,6 +1367,7 @@ root.cdag3.man = cdag3_man.MAN()
 # 呼叫 man.py 中 MAN 類別的 assembly 方法
 '''
 class MAN(object):
+    
     # 各組利用 index 引導隨後的程式執行
     @cherrypy.expose
     def index(self, *args, **kwargs):
