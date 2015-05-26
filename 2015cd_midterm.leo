@@ -27,10 +27,10 @@
 </v>
 </v>
 <v t="2014fall.20141212095015.1774" a="E"><vh>@path ./</vh>
+<v t="2015.20150526114833.1"><vh>@edit man2.py</vh></v>
+<v t="2015.20150526114825.1"><vh>@edit man.py</vh></v>
 <v t="2014fall.20141212095015.1775" a="E"><vh>@clean wsgi.py</vh>
 <v t="2014fall.20141212095015.1776"><vh>&lt;&lt;declarations&gt;&gt; (wsgi)</vh></v>
-<v t="2015.20150526111751.1"><vh>@edit man.py</vh></v>
-<v t="2015.20150526111745.1"><vh>@edit man2.py</vh></v>
 <v t="office.20150504185643.1"><vh>downloadlist_access_list</vh></v>
 <v t="office.20150504185717.1"><vh>sizeof_fmt</vh></v>
 <v t="2014fall.20141212095015.1777" a="E"><vh>class Midterm</vh>
